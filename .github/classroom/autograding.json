@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "testSubArray",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testSubArray",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMergeSort",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMergeSort",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testInsert",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testInsert",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testInsertionSort",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testInsertionSort",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
